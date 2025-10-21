@@ -1,16 +1,16 @@
 # Hello-Git
 
-这是我的第一个 GitHub 仓库！
+This is my first GitHub repository!
 
-## 项目描述
-这个仓库用于学习 Git 和 GitHub 的基本操作。
+## Project Description
+This repository is for learning basic operations of Git and GitHub.
 
-## 学习目标
-- [ ] 掌握 Git 基本命令
-- [ ] 学会使用 GitHub
-- [ ] 理解版本控制的概念
+## Learning Goals
+- [ ] Master basic Git commands
+- [ ] Learn to use GitHub
+- [ ] Understand version control concepts
 
-## 使用方法
+## Usage
 ```bash
 git clone git@github.com:Magic181/Hello-Git.git
 cd Hello-Git

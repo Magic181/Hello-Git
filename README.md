@@ -14,3 +14,4 @@ This repository is for learning basic operations of Git and GitHub.
 ```bash
 git clone git@github.com:Magic181/Hello-Git.git
 cd Hello-Git
+- fix-B

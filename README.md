@@ -16,3 +16,4 @@ git clone git@github.com:Magic181/Hello-Git.git
 cd Hello-Git
 feature-A
 fix-B
+feature-C
